@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1763819957369,
+    "type": "income",
+    "description": "Salary",
+    "amount": 50000,
+    "category": "salary",
+    "date": "11/22/2025"
+  },
+  {
+    "id": 1763820043018,
+    "type": "expense",
+    "description": "Beer",
+    "amount": 5000,
+    "category": "food",
+    "date": "11/22/2025"
+  },
+  {
+    "id": 1763822649861,
+    "type": "income",
+    "description": "Salary",
+    "amount": 100000,
+    "category": "salary",
+    "date": "11/22/2025"
+  }
+]
